@@ -1,5 +1,5 @@
-# friendly-garbanzo
-Project 2 To-do List using html, CSS &amp; JS
+# To-Do-List using html, CSS & JS
+
 <!DOCTYPE html>
 <html lang="en">
 
